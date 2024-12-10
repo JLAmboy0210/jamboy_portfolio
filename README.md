@@ -1,6 +1,2 @@
 # Simple-html-portfolio
-"simple html porfolio" is a stunning portfolio website, meticulously designed and developed using HTML, CSS, Bootstrap, and JavaScript... 
-
-## table of contents
-
-index1.html(#index1.html)
+![webimages](https://github.com/user-attachments/assets/f16d332b-32a5-4a92-8322-aada045682d5)
